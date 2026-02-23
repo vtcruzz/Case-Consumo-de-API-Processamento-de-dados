@@ -1,0 +1,11 @@
+{
+  "name": "teste-tecnico-consumo-api",
+  "version": "1.0.0",
+  "description": "Consumo de APIs públicas, processamento de dados e geração de arquivo JSON.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vitoria Cruz",
+  "license": "ISC"
+}
